@@ -1,0 +1,10 @@
+.div-inicio{
+    height: 88vh;
+}
+.imd-div{
+    width: 100%;
+}
+.bc-imagen{
+    background-image: url(../img/tec.jpg);
+    background-size: cover;
+}
